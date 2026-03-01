@@ -1,0 +1,17 @@
+*.exe
+*.mp4
+*.wav
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.log
+*.recipe
+*.bmp
+x64/
+.vs/
+Debug/
+Release/
+doc/
+*.pptx
+*.doc
