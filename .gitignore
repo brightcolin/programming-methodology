@@ -7,7 +7,6 @@
 *.idb
 *.log
 *.recipe
-*.bmp
 x64/
 .vs/
 Debug/
