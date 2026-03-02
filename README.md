@@ -63,4 +63,4 @@ A Windows GDI-based fish eating game where the player controls a fish, eats smal
 
 ---
 
-> ✅ This repository is public. Course completed in 2025.
+> ✅ This repository is public. Course completed in 2026.
